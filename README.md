@@ -25,9 +25,9 @@ The database is built on PostgreSQL and normalized to 3NF to ensure data integri
 
 ## Data Insights & Analysis
 I wrote specific queries to answer real-world SaaS questions:
-**1. Revenue Tracking**: Total billing amounts grouped by client.
-**2. Workload Analysis**: Identifying which engineers are handling the most tickets per region.
-**3. Tickets per Category**: Identifying which issue categories occur most frequently to help prioritize development.
+1. **Revenue Tracking**: Total billing amounts grouped by client.
+2. **Workload Analysis**: Identifying which engineers are handling the most tickets per region.
+3. **Tickets per Category**: Identifying which issue categories occur most frequently to help prioritize development.
 
 ## 📈 Visualizations
 Included are three Jupyter Notebooks utilizing **Matplotlib** and **Pandas** to transform SQL query results into actionable visual insights, focusing on revenue, workloads, and tickets per category.
